@@ -11,7 +11,6 @@ Selects a tag based on classname, id etc and returns a ```Jquery``` Object (see 
 ```javascript
 $('.slider') // Jquery Object
 ```
--
 
 - each
 
