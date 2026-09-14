@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    place-items: center;
+}
+.b1, .b2{
+    width:200px;
+    height:60px;
+    font-size: 18px;
+}
